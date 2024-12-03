@@ -1,6 +1,5 @@
-¡Claro! Aquí tienes un ejemplo de un archivo README para tu aplicación de adivinanza. Este README describe la aplicación, sus características y cómo usarla.
 
----
+
 
 # AdivinaApp
 
@@ -44,4 +43,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ---
 
-Este README ofrece una visión general clara y útil de la aplicación y cómo usarla. Puedes personalizarlo más según sea necesario. Si necesitas ayuda con algo más, ¡déjamelo saber!
+
